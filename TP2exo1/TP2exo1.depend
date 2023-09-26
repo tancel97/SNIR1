@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506936317 source:/home/USERS/ELEVES/SNIR2017/tcelik/2017/Codeblocks/TP2exo1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<senseHat.h>
+
