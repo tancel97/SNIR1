@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1506589978 source:/home/USERS/ELEVES/SNIR2017/tcelik/2017/TD1ex2/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507294666 source:/home/USERS/ELEVES/SNIR2017/tcelik/2017/Codeblocks/TD1ex2/main.c
+	<stdio.h>
+	<stdlib.h>
+
