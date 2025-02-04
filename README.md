@@ -1,4 +1,4 @@
 # SNIR1
 Travaux réalisés durant ma première année de BTS SNIR
 
-(Navigation via la branche)
+(Pour naviguer, cliquez sur la branche "main")
